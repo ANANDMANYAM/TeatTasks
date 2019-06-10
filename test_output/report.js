@@ -33,21 +33,21 @@ formatter.match({
   "location": "Documentation.user_launch_the_browser()"
 });
 formatter.result({
-  "duration": 25351515006,
+  "duration": 46690936015,
   "status": "passed"
 });
 formatter.match({
   "location": "Documentation.user_validate_the_sublinks_in_current_page()"
 });
 formatter.result({
-  "duration": 123332594916,
+  "duration": 166452797053,
   "status": "passed"
 });
 formatter.match({
   "location": "Documentation.user_close_the_browser()"
 });
 formatter.result({
-  "duration": 1298330199,
+  "duration": 1305902673,
   "status": "passed"
 });
 });
